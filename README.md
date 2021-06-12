@@ -10,6 +10,7 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/qHRnWYduEy4">How to set up Thonny for ESP32 micropython development</a>
   <li /><a href="https://youtu.be/hJwfbbsCZRw">Using ESP32 micropython with NETPIE2020 : DHT sensor monitoring</a>
   <li /><a href="https://youtu.be/pD4GD9SrEfI">Using ESP32 micropython with NETPIE2020 : control the onboard LED with commands</a> 
+  <li /><a href="https://youtu.be/cEXGIFc1Q3U">Micropython, ESP32, and NETPIE 2020 : measure distance with ultrasonic sensor</a>
 </ul>
 
 #### Thai
