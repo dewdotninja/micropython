@@ -1,5 +1,7 @@
 # micropython
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width=200 />
+
 This repo is for micropython development, mostly on ESP32. 
 
 ### Videos
@@ -20,4 +22,12 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/aUiiuEsk-qc">การเขียนโปรแกรม micropython บน ESP32 เชื่อมต่อ NETPIE 2020</a> 
   <li /><a href="https://youtu.be/xdZUz6D67D4">ส่งคำสั่งจาก NETPIE2020 ไปยังโปรแกรม micropython บน ESP32</a>  
   <li /><a href="https://youtu.be/fWDD4oBgnJs">Micropython ESP32 และ NETPIE 2020 : วัดระยะทางด้วย ultrasonic sensor</a> 
+</ul>
+
+### Resources
+<ul>
+  <li /><a href="https://thonny.org/">Thonny Python IDE</a>
+  <li /><a href="https://thonny.org/">Micropython website</a>
+  <li /><a href="https://en.wikipedia.org/wiki/MicroPython">MicroPython Wikipedia</a>
+  <li /><a href="https://github.com/mcauser/awesome-micropython"> awesome-micropython github</a>
 </ul>
