@@ -13,6 +13,7 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/hJwfbbsCZRw">Using ESP32 micropython with NETPIE2020 : DHT sensor monitoring</a>
   <li /><a href="https://youtu.be/pD4GD9SrEfI">Using ESP32 micropython with NETPIE2020 : control the onboard LED with commands</a> 
   <li /><a href="https://youtu.be/cEXGIFc1Q3U">Micropython, ESP32, and NETPIE 2020 : measure distance with ultrasonic sensor</a>
+  <li /><a href="https://youtu.be/RFvvzNPsUYE">PID-IoT on ESP32 using micropython and NETPIE 2020</a>
 </ul>
 
 #### Thai
@@ -22,6 +23,7 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/aUiiuEsk-qc">การเขียนโปรแกรม micropython บน ESP32 เชื่อมต่อ NETPIE 2020</a> 
   <li /><a href="https://youtu.be/xdZUz6D67D4">ส่งคำสั่งจาก NETPIE2020 ไปยังโปรแกรม micropython บน ESP32</a>  
   <li /><a href="https://youtu.be/fWDD4oBgnJs">Micropython ESP32 และ NETPIE 2020 : วัดระยะทางด้วย ultrasonic sensor</a> 
+  <li /><a href="https://youtu.be/DP8pD9pgssc">สร้างตัวควบคุม PID เป็นไอโอทีบน ESP32 โดย micropython และ NETPIE2020</a>
 </ul>
 
 ### Resources
