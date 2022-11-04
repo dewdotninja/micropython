@@ -14,6 +14,8 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/pD4GD9SrEfI">Using ESP32 micropython with NETPIE2020 : control the onboard LED with commands</a> 
   <li /><a href="https://youtu.be/cEXGIFc1Q3U">Micropython, ESP32, and NETPIE 2020 : measure distance with ultrasonic sensor</a>
   <li /><a href="https://youtu.be/RFvvzNPsUYE">PID-IoT on ESP32 using micropython and NETPIE 2020</a>
+   <li /><a href="https://youtu.be/sXBXQZQnEA0">node-red development for PID controller : Part II (send commands from node-red-dashboard)</a>
+  <li /><a href="https://www.youtube.com/watch?v=1FrvX07FSEM">Organize code using OOP on micropython</a>
   <li /><a href="https://youtu.be/u-3wP7fuzqk">node-red development for PID controller : Part I (display data from NETPIE shadow)</a>
   <li /><a href="https://youtu.be/sXBXQZQnEA0">node-red development for PID controller : Part II (send commands from node-red-dashboard)</a>
 </ul>
