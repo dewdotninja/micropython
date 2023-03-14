@@ -29,6 +29,7 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/DP8pD9pgssc">สร้างตัวควบคุม PID เป็นไอโอทีบน ESP32 โดย micropython และ NETPIE2020</a>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EQ7nzxv5dvVOiQBeaIDU-qIBY_kJcIcERQRa0MaMpts2Rw?e=zBeY9M">การพัฒนา node-red สำหรับตัวควบคุม PID (ภาค 1)</a>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EROPuo7fvqxNpT7aHXN5gR4BgRwzyp3lltofCdbzuG9x-A?e=O8QU9d">การพัฒนา node-red สำหรับตัวควบคุม PID (ภาค 2)</a>
+  <li /><a href="https://youtu.be/XHzSaWOAS0E">NETPIE2020 dashboard : การส่ง message จาก ESP32 ไปยัง dashboard เพื่ออัพเดต</a>
 </ul>
 
 ### Update March 2023
