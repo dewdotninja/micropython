@@ -15,8 +15,9 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/cEXGIFc1Q3U">Micropython, ESP32, and NETPIE 2020 : measure distance with ultrasonic sensor</a>
   <li /><a href="https://youtu.be/RFvvzNPsUYE">PID-IoT on ESP32 using micropython and NETPIE 2020</a>
   <li /><a href="https://www.youtube.com/watch?v=1FrvX07FSEM">Organize code using OOP on micropython</a>
-  <li /><a href="https://youtu.be/u-3wP7fuzqk">node-red development for PID controller : Part I (display data from NETPIE shadow)</a>
+  <li /><a href="https://youtu.be/u-3wP7fuzqk">node-red development for PID controller : Part I (display data from NETPIE shadow)</a> [+]
   <li /><a href="https://youtu.be/sXBXQZQnEA0">node-red development for PID controller : Part II (send commands from node-red-dashboard)</a>
+  <li /><a href="https://youtu.be/0bul7coknIg">True multitasking with ESP32 & micropython</a>
 </ul>
 
 #### Thai
@@ -27,14 +28,15 @@ This repo is for micropython development, mostly on ESP32.
   <li /><a href="https://youtu.be/xdZUz6D67D4">ส่งคำสั่งจาก NETPIE2020 ไปยังโปรแกรม micropython บน ESP32</a>  
   <li /><a href="https://youtu.be/fWDD4oBgnJs">Micropython ESP32 และ NETPIE 2020 : วัดระยะทางด้วย ultrasonic sensor</a> 
   <li /><a href="https://youtu.be/DP8pD9pgssc">สร้างตัวควบคุม PID เป็นไอโอทีบน ESP32 โดย micropython และ NETPIE2020</a>
-  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EQ7nzxv5dvVOiQBeaIDU-qIBY_kJcIcERQRa0MaMpts2Rw?e=zBeY9M">การพัฒนา node-red สำหรับตัวควบคุม PID (ภาค 1)</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EQ7nzxv5dvVOiQBeaIDU-qIBY_kJcIcERQRa0MaMpts2Rw?e=zBeY9M">การพัฒนา node-red สำหรับตัวควบคุม PID (ภาค 1)</a> [+]
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EROPuo7fvqxNpT7aHXN5gR4BgRwzyp3lltofCdbzuG9x-A?e=O8QU9d">การพัฒนา node-red สำหรับตัวควบคุม PID (ภาค 2)</a>
   <li /><a href="https://youtu.be/XHzSaWOAS0E">NETPIE2020 dashboard : การส่ง message จาก ESP32 ไปยัง dashboard เพื่ออัพเดต</a>
+  <li /><a href="https://youtu.be/MGQtreChsaQ">multitask นั้นสำคัญไฉน?</a>
 </ul>
 
 ### Update March 2023
 
-Due to some change in NETPIE2020 internals, some node-red developments in the video might not work anymore. 
+[+] Due to some change in NETPIE2020 internals, some node-red developments in the video might not work anymore. 
 
 
 ### Resources
